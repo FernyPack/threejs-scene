@@ -1,0 +1,6 @@
+root/
+├── index.html
+├── js/
+│   └── script.js
+└── css/
+    └── style.css
